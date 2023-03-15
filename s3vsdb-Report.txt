@@ -1,0 +1,5 @@
+
+Time of this report: 2023-03-15 14:27:14.800790974 +0530 IST m=+1.306401335
+Date, RoutingCriteria, DatasetId, TimeBucketInEpoch, TimeBucketHumanReadable, S3RawOrcCount, DBRawOrcCount, NoOfDuplicatesinDB, S3vsDBSync
+14-3-2023,  SNP-4999-DND/test/p3/d1, 2, 1669766400005, 2022-11-30 05:30:00.005 +0530 IST, 0, 10, 0, false
+14-3-2023,  SNP-4999-DND/test/p3/d1, 2, 1669766400006, 2022-11-30 05:30:00.006 +0530 IST, 0, 10, 0, false
